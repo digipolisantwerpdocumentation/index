@@ -1,4 +1,4 @@
-# Documentation
+# Index
 
 [API Requirements](https://github.com/digipolisantwerpdocumentation/api-requirements) - NL
 
